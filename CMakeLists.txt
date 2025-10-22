@@ -12,4 +12,6 @@ add_executable(dubong_language
         memory.c
         debug.h
         debug.c
+        value.h
+        value.c
 )
