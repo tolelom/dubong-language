@@ -1,4 +1,4 @@
 # Programming Language DuBong
 
-![DuBongLogo](docs/images/DuBong.png)
+![DuBongLogo](docs/images/DuBongLogo.png)
 
