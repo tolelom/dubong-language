@@ -14,4 +14,6 @@ add_executable(dubong_language
         debug.c
         value.h
         value.c
+        vm.h
+        vm.c
 )
